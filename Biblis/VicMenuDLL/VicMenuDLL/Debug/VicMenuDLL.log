@@ -1,0 +1,4 @@
+﻿  VicMenuDLL.cpp
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\VicMenuDLL.cpp(3,33): warning C4081: требуется "newline"; обнаружен ";"
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\VicMenuDLL.cpp(11,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  VicMenuDLL.vcxproj -> C:\Users\Виктор\source\repos\VicMenuDLL\Debug\VicMenuDLL\VicMenuDLL.dll

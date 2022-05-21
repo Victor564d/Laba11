@@ -1,0 +1,16 @@
+C:\Users\Виктор\source\repos\VicMenuDLL\Debug\VicMenuDLL\VicMenuDLL.pri
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\priconfig.xml
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\priconfig.xml.intermediate
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\unfiltered.layout.resfiles
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\filtered.layout.resfiles
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\excluded.layout.resfiles
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\resources.resfiles
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\resources.resfiles.intermediate
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\pri.resfiles
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\pri.resfiles.intermediate
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\qualifiers.txt
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\qualifiers.txt.intermediate
+C:\Users\Виктор\source\repos\VicMenuDLL\VicMenuDLL\Debug\MultipleQualifiersPerDimensionFound.txt
